@@ -1,5 +1,7 @@
 Hi,
 This is leaning tutorial number 1 for Git and Github i.e version control system.
+welcome to community branch of the repo
+here we change any thing does not reflect in the main branch of the repo
 
 adding some more lines.
 

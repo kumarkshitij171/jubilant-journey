@@ -2,4 +2,5 @@ Hi,
 This is leaning tutorial number 1 for Git and Github i.e version control system.
 
 adding some more lines.
-adding some dummy lines.
+
+deleted a line and adding one another line
